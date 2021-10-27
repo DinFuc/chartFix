@@ -1,1 +1,2 @@
 # chartFix
+As an economist, you are interested in Pingland PING to Pongland PONG currency chart. In a conference that will take place really soon, you want to show everyone that PING/PONG rate has been increasing lately. In order to do this you decided to remove from the chart some points so that the remaining points form a strictly increasing sequence. Find the smallest number of points you have to remove.
